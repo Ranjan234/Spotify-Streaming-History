@@ -12,6 +12,7 @@ I used Power Query to clean and transform the data before analysis. Some key ste
 # Dashboard Design
 - Total minutes streamed on overview page represents total listening time from 2013 to 2024.
 - The heatmap uses a gradient where lighter shade of green highlights the highest values, gradually fading into black for the lowest ones.
+- ![Dashboard](https://github.com/Ranjan234/Spotify-Streaming-History/blob/main/Image/Screenshot%202025-01-18%20151152.png)
 ## Definition of some metrics:
 - Total Streams: Number of times a song is streamed or played.
 - Total Minutes: Amount of time spent listening to songs in minutes.
